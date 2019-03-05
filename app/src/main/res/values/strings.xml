@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinRPS</string>
+    <string name="title_block">Play Paper, Rock, Scissor — Good Luck :-)</string>
+    <string name="rock_button">ROCK</string>
+    <string name="paper_button">PAPER</string>
+    <string name="scissors_button">SCISSORS</string>
+    <string name="image_desc">Question Mark</string>
+</resources>
